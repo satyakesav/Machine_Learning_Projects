@@ -4,4 +4,4 @@ Machine Learning Projects:
 It contains the Principal Component Analysis implementation from scratch and the results are verified with the implementation in scikit-learn library.
 
 2. Eigen Face:
-It demonstrates the application of PCA in face detection. First 8 Principal Component variations are observed in the project. You will find the same by opening the project.
+It demonstrates the application of PCA in face detection. Highest eight Principal Component variations are shown in the project. The dataset used is CelebA which can be obtained from http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html.
